@@ -5,4 +5,5 @@ This assignment was an open ended question. Using our limited knowledge thus far
 
 Setup
 https://bgmyhan.github.io/Homework-7-Note-Taker/
+
 Created by: Brandon Myhan UCLA Bootcamp T-Th-S
